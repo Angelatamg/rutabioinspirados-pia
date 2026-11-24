@@ -4,6 +4,6 @@ Proyecto integrador de algoritmos bioinspirados. Compara **ACO** (colonia de hor
 
 - **Página web (demo interactiva):** [https://angelatamg.github.io/rutabioinspirados-pia/](https://angelatamg.github.io/rutabioinspirados-pia/)
 - **Notebook de Google Colab:** `PIA_ABI.ipynb`.
-- **Reporte:** `abi_pia_reporte_2251246` y `.docx`.
+- **Reporte:** `abi_pia_reporte_2251246`.
 
 Datos de calles © colaboradores de [OpenStreetMap](https://www.openstreetmap.org/copyright) (ODbL).
